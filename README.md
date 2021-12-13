@@ -1,7 +1,7 @@
-<h2 align="left">I'm Franklin Arredondo</h2>
+<h3 align="left">I'm Franklin Arredondo</h3>
 <h4 align="justify">Engineer with more than 22 years of experience in planning, management control and execution of projects in the industrial and oil sector, dedicated in recent years to technology and programming, developing and implementing solutions that require machine learning, ETL processes, Web Scraping, natural language processing, business intelligence (BI), data analysis and WEB development. I consider myself comprehensive, with great adaptability to different work environments, self-taught, tolerant of work under pressure and managing change, with a great willingness to participate in projects that imply a challenge.</h4>
 
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fearredondo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fearredondo" height="30" width="40" /></a>
 </p>
